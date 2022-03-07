@@ -5,7 +5,7 @@
 
 <br>
 
-hi, i'm [Rahul](https://abhishknads.me/), a passionate self-taught full stack web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Rahul](https://codingkite.github.io/Personal-Portfolio/), a passionate self-taught full stack web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people.
 
@@ -15,7 +15,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://codingkite.github.io/Personal-Portfolio/)**
 
 - 📫 How to reach me **codingkite@gmail.com**
 
@@ -24,10 +24,10 @@ I love the entire process of developing creative websites. I love the challenge 
 ## Connect with me:
 
 <p align="left">
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/rahul-53744914a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/CodingKite"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/CodingKite"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/playlist?list=PL6_oqcjDFujWP3_joNgRv0-XZsDzfxXZN"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
